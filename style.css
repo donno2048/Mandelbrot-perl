@@ -1,0 +1,7 @@
+textarea {
+    width: calc(2 * 90em / 3);
+    height: calc(4 * 50em / 3);
+    border: none;
+    outline: none;
+    resize: none;
+}
